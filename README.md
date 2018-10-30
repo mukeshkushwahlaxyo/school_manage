@@ -13,15 +13,15 @@
 </p>
 
 # vue2-admin-lte ([Demo](https://preview.vuejsadmin.com/item/vue2-admin-lte))
-# ([Download](https://vuejsadmin.com/product/vue2-admin-lte/))
+# vue2-admin-lte ([Download](https://vuejsadmin.com/product/vue2-admin-lte/))
 
 > AdminLTE of Admin control panel template Based on Vuejs 2.x Front-end Framework.
 
 ![](https://github.com/vuejsadmin/vue2-admin-lte/blob/master/capture.png?raw=true)
 
-## Documentation
+## [Documentation](https://devjin0617.gitbooks.io/vue2-admin-lte-guide/)
 
-> [https://devjin0617.gitbooks.io/vue2-admin-lte-guide/](https://devjin0617.gitbooks.io/vue2-admin-lte-guide/)
+
 
 ## Demo Build Setup
 
